@@ -11,7 +11,7 @@
             @click="resetCenter()"
           >
             Reset
-        </button>
+          </button>
         </h6>
         <hr />
         <h6 class="mb-3">Nearby Attractions:</h6>

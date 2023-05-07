@@ -455,7 +455,7 @@ export default {
   methods: {
     //Fetch nearby places on pageload using PlacesAPI
     async getNearbyAttr() {
-      const proxyURL = "https://peaceful-sierra-78205.herokuapp.com/";
+      const proxyURL = "https://hidden-springs-80695.herokuapp.com/";
       var strLocation = this.uniLat + "," + this.uniLong;
       // console.log("strLocation is below");
       // console.log(strLocation);
